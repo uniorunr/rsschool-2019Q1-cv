@@ -13,3 +13,20 @@ Nowadays people are dealing with Javascript almost every day while surfing on th
 Regarding my personal aim, I'm sure that everyone should learn all life long. So I think that the skill to learn constantly is one of the most important skills. And I hope I have that skill. Anyway, I have the desire to learn and improve myself via challenging tasks.
 
 So I'm here in [RS School](https://rs.school/) to get so much experience I can get. And possibly to use this great experience in the future.
+
+### Skills
+
+- JavaScript (ES6)
+- HTML5
+- CSS3
+- Pre-Processors
+- React
+- Firebase
+- Git
+- Adobe Photoshop/Illustrator
+
+### Experience
+
+   - [Simple Game](https://uniorunr.github.io/8beasts/) on JS
+   - [Mentor Dashboard](https://rss-mentor-dashboard-8a0db.firebaseapp.com/) on React
+   
