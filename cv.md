@@ -30,3 +30,21 @@ So I'm here in [RS School](https://rs.school/) to get so much experience I can g
    - [Simple Game](https://uniorunr.github.io/8beasts/) on JS
    - [Mentor Dashboard](https://rss-mentor-dashboard-8a0db.firebaseapp.com/) on React
    
+### Education
+
+  - Higher technical education
+  - RS School
+  - Codecademy HTML & CSS courses
+  - Google/YouTube
+  - MDN
+  - learn.javascript.ru
+  - stackoverflow.com
+  
+### English level
+
+Current level - **A2+/B1**
+
+- Google/stackoverflow.com/documentation only in English
+- Periodic speaking practice with native speakers
+- Constant writing practice with native speakers
+- School/University/some online & offline courses/etc. 
