@@ -5,7 +5,6 @@ html {
 }
 
 body {
-  height: 100%;
   font-family: 'Quicksand', 'Arial', sans-serif;
   font-weight: 500;
   font-size: 10px;
@@ -14,7 +13,7 @@ body {
 
 .main-container {
 	width: 1024px;
-	margin: 0 auto;
+	margin: 30px auto;
 	display: flex;
 	flex-direction: row;
 	justify-content: space-between;
@@ -23,7 +22,7 @@ body {
 .content-block {
 	display: block;
 	padding: 5px;
-	margin: 20px 5px;
+	margin: 20px 5px 10px;
 	width: 240px;
 	text-align: justify;
 }
@@ -59,6 +58,7 @@ body {
 	align-self: flex-start;
 	font-size: 1.25em;
 	margin-top: 0;
+	padding-left: 2.5em;
 }
 
 .content-section li {
@@ -112,4 +112,9 @@ ul.contacts {
 
 .contacts i {
 	margin-right: 5px;
+}
+
+.highlight {
+	color: #112cfb;
+	font-weight: 700;
 }
