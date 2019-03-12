@@ -25,6 +25,7 @@ body {
 	margin: 20px 5px 10px;
 	width: 240px;
 	text-align: justify;
+	overflow: hidden;
 }
 
 .block-header {
@@ -58,11 +59,8 @@ body {
 	align-self: flex-start;
 	font-size: 1.25em;
 	margin-top: 0;
-	padding-left: 2.5em;
-}
-
-.content-section li {
-	margin: 0.5em 0;
+	padding-left: 3.5em;
+	line-height: 1.55em;
 }
 
 .content-section a {
@@ -115,6 +113,5 @@ ul.contacts {
 }
 
 .highlight {
-	color: #112cfb;
 	font-weight: 700;
 }
